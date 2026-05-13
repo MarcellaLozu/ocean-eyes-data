@@ -1,4 +1,4 @@
-# 🌊 Ocean Eyes — Dive Spot Climate Risk Index
+# 🌊 Dive Spot Climate Risk Index
 
 A data project quantifying climate-related thermal stress risk for 50 globally recognized dive spots, using 41 years of satellite data from NOAA Coral Reef Watch (1985–2025).
 
