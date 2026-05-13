@@ -1,0 +1,51 @@
+name,country,region,lat,lon,bleaching_freq_significant,bleaching_freq_severe,sst_trend_per_decade,score_bleaching,score_trend,risk_score,risk_level
+Great Barrier Reef - Osprey Reef,Australia,Indo-Pacific,-13.8833,146.5667,10.0,6.0,0.2941882312297821,50.0,56.50431957563985,52.6,High
+Great Barrier Reef - Cod Hole,Australia,Indo-Pacific,-16.1167,145.9833,7.0,2.0,0.2551873028278351,35.0,47.361284613969445,39.9,Medium
+Coral Sea - Holmes Reef,Australia,Indo-Pacific,-16.4833,147.8667,10.0,4.0,0.2887789309024811,50.0,55.236210737281546,52.1,High
+Ribbon Reefs - No. 10,Australia,Indo-Pacific,-15.0833,145.75,5.0,3.0,0.2625892758369446,25.0,49.09653812665891,34.6,Medium
+Raja Ampat - Misool,Indonesia,Indo-Pacific,-2.0833,130.1667,0.0,0.0,0.193965658545494,0.0,33.009020270014766,13.2,Low
+Raja Ampat - Cape Kri,Indonesia,Indo-Pacific,-0.55,130.6833,6.0,2.0,0.2868351936340332,30.0,54.78053805127355,39.9,Medium
+Komodo - Batu Bolong,Indonesia,Indo-Pacific,-8.4667,119.75,10.0,4.0,0.2494495809078216,50.0,46.01618350318648,48.4,Medium
+Komodo - Crystal Rock,Indonesia,Indo-Pacific,-8.3167,119.8833,8.0,1.0,0.245619848370552,40.0,45.118374658196146,42.0,Medium
+Banda Sea - Gunung Api,Indonesia,Indo-Pacific,-4.5333,129.8667,6.0,0.0,0.2207079529762268,30.0,39.27824879748919,33.7,Medium
+Tulamben - USAT Liberty,Indonesia,Indo-Pacific,-8.2833,115.5833,7.0,2.0,0.227052167057991,35.0,40.765530601555064,37.3,Medium
+Bunaken - Manado Tua,Indonesia,Indo-Pacific,1.6167,124.75,0.0,0.0,0.1297606378793716,0.0,17.957359380941615,7.2,Low
+Wakatobi - Coral Garden,Indonesia,Indo-Pacific,-5.3333,123.75,2.0,0.0,0.1950634270906448,10.0,33.26637148188066,19.3,Low
+Palau - Blue Corner,Palau,Indo-Pacific,7.15,134.2167,9.0,1.0,0.2300129830837249,45.0,41.45963829456597,43.6,Medium
+Palau - German Channel,Palau,Indo-Pacific,7.2167,134.4167,7.0,1.0,0.2188072949647903,35.0,38.832675233966654,36.5,Medium
+Palau - Jellyfish Lake,Palau,Indo-Pacific,7.1667,134.3833,8.0,1.0,0.2209082990884781,40.0,39.3252161796466,39.7,Medium
+Tubbataha Reef,Philippines,Indo-Pacific,8.9167,119.8333,2.0,0.0,0.1931246519088745,10.0,32.811862063872546,19.1,Low
+Apo Island,Philippines,Indo-Pacific,9.0833,123.2667,0.0,0.0,0.1567330956459045,0.0,24.280545378464627,9.7,Low
+Malapascua - Monad Shoal,Philippines,Indo-Pacific,11.3333,124.15,4.0,0.0,0.2301308214664459,20.0,41.48726328959022,28.6,Medium
+Sipadan Island,Malaysia,Indo-Pacific,4.1167,118.6333,4.0,0.0,0.2281877398490905,20.0,41.03174430866328,28.4,Medium
+Perhentian Islands,Malaysia,Indo-Pacific,5.9,102.75,2.0,1.0,0.1748091876506805,10.0,28.518145557279524,17.4,Low
+Similan Islands,Thailand,Indo-Pacific,8.65,97.6333,4.0,2.0,0.217933639883995,20.0,38.62786321344681,27.5,Medium
+Richelieu Rock,Thailand,Indo-Pacific,9.3667,97.7833,5.0,2.0,0.2047218382358551,25.0,35.530604524354494,29.2,Medium
+Koh Tao - Chumphon Pinnacle,Thailand,Indo-Pacific,10.6667,99.8167,3.0,1.0,0.1821528524160385,15.0,30.23972979764606,21.1,Low
+Ari Atoll - Maaya Thila,Maldives,Indian Ocean,3.9833,72.5333,4.0,0.0,0.1297963708639145,20.0,17.9657363078597,19.2,Low
+North Male Atoll - Banana Reef,Maldives,Indian Ocean,4.25,73.5333,3.0,0.0,0.1293083578348159,15.0,17.851330821384757,16.1,Low
+Baa Atoll - Hanifaru Bay,Maldives,Indian Ocean,5.15,72.9667,2.0,0.0,0.120765209197998,10.0,15.848550121803425,12.3,Low
+Aldabra Atoll,Seychelles,Indian Ocean,-9.4167,46.3333,2.0,1.0,0.2015196084976196,10.0,34.77990192183577,19.9,Low
+Cosmoledo Atoll,Seychelles,Indian Ocean,-9.7,47.5667,3.0,1.0,0.1808264702558517,15.0,29.92878441865045,21.0,Low
+Sodwana Bay,South Africa,Indian Ocean,-27.5333,32.6833,1.0,1.0,0.1836491525173187,5.0,30.5905092457187,15.2,Low
+Zanzibar - Mnemba Atoll,Tanzania,Indian Ocean,-5.8667,39.3667,3.0,1.0,0.1446948200464248,15.0,21.458397824695833,17.6,Low
+Red Sea - Ras Mohammed,Egypt,Red Sea,27.7333,34.25,13.0,8.0,0.4797253012657165,65.0,100.0,79.0,Critical
+Red Sea - Brother Islands,Egypt,Red Sea,26.15,34.8667,11.0,4.0,0.3765840530395508,55.00000000000001,75.82047204611979,63.3,High
+Red Sea - Daedalus Reef,Egypt,Red Sea,24.9167,35.8667,8.0,5.0,0.3505333960056305,40.0,69.71338491268305,51.9,High
+Red Sea - Blue Hole Dahab,Egypt,Red Sea,28.5667,34.5333,0.0,0.0,,0.0,,,Unknown
+Aqaba - Cedar Pride,Jordan,Red Sea,29.4833,34.9667,7.0,1.0,0.3000727891921997,35.0,57.8838436379869,44.2,Medium
+Cocos Island,Costa Rica,Pacific,5.5333,-87.0667,5.0,2.0,0.1913575679063797,25.0,32.39760241731983,28.0,Medium
+Galapagos - Wolf Island,Ecuador,Pacific,-1.3833,-91.8167,15.0,6.0,0.1982116848230362,75.0,34.00442136158984,58.6,High
+Galapagos - Darwin Island,Ecuador,Pacific,1.6667,-92.0,20.0,12.0,0.2594287097454071,100.0,48.35560278338245,79.3,Critical
+Belize Barrier Reef - Blue Hole,Belize,Caribbean,17.3167,-87.5333,11.0,5.0,0.3613067865371704,55.00000000000001,72.23900392540074,61.9,High
+Turks and Caicos - Grace Bay,Turks and Caicos,Caribbean,21.8,-72.2167,5.0,3.0,0.2980655133724212,25.0,57.413275532304716,38.0,Medium
+Bonaire - Klein Bonaire,Netherlands Antilles,Caribbean,12.1333,-68.3,15.0,5.0,0.3192046880722046,75.0,62.36895790347948,69.9,High
+Cozumel - Palancar Reef,Mexico,Caribbean,20.3333,-87.0333,6.0,3.0,0.3249423801898956,30.0,63.71405202766782,43.5,Medium
+Cayman Islands - Stingray City,Cayman Islands,Caribbean,19.3833,-81.3667,5.0,3.0,0.2819164395332336,25.0,53.627428559930635,36.5,Medium
+Hawaii - Molokini Crater,USA,Pacific,20.6333,-156.4833,2.0,2.0,0.0547731257975101,10.0,0.3779459478266698,6.2,Low
+Hawaii - Kona Manta Ray Night Dive,USA,Pacific,19.8167,-156.0167,2.0,2.0,0.0531609430909156,10.0,0.0,6.0,Low
+Fernando de Noronha,Brazil,Atlantic,-3.85,-32.4167,4.0,2.0,0.2379328459501266,20.0,43.31630135481074,29.3,Medium
+Azores - Princess Alice Bank,Portugal,Atlantic,37.0,-24.8333,10.0,3.0,0.2923539876937866,50.0,56.0743156381698,52.4,High
+Faial - Banco D. Joao de Castro,Portugal,Atlantic,38.2333,-26.6333,10.0,3.0,0.2923539876937866,50.0,56.0743156381698,52.4,High
+Ningaloo Reef,Australia,Indo-Pacific,-22.6667,113.7167,11.0,2.0,0.099249430000782,55.00000000000001,10.804579901394364,37.3,Medium
+Lord Howe Island,Australia,Pacific,-31.55,159.0833,8.0,3.0,0.1935772895812988,40.0,32.91797446256452,37.2,Medium
